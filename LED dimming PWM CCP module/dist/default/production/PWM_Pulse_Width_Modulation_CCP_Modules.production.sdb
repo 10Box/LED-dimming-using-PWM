@@ -1,0 +1,50 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"6 C:\Users\moham\Desktop\MPLAB projects\PWM Pulse Width Modulation CCP Modules\newmain.c
+[v _PMW1SetDuty PMW1SetDuty `(v  1 e 1 0 ]
+"20
+[v _main main `(v  1 e 1 0 ]
+"892 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f877a.h
+[v _CCPR1L CCPR1L `VEuc  1 e 1 @21 ]
+"1816
+[v _PR2 PR2 `VEuc  1 e 1 @146 ]
+"2450
+[v _CCP1M2 CCP1M2 `VEb  1 e 0 @186 ]
+"2453
+[v _CCP1M3 CCP1M3 `VEb  1 e 0 @187 ]
+"2456
+[v _CCP1X CCP1X `VEb  1 e 0 @189 ]
+"2459
+[v _CCP1Y CCP1Y `VEb  1 e 0 @188 ]
+"2876
+[v _T2CKPS0 T2CKPS0 `VEb  1 e 0 @144 ]
+"2879
+[v _T2CKPS1 T2CKPS1 `VEb  1 e 0 @145 ]
+"2906
+[v _TMR2ON TMR2ON `VEb  1 e 0 @146 ]
+"2969
+[v _TRISC2 TRISC2 `VEb  1 e 0 @1082 ]
+"20 C:\Users\moham\Desktop\MPLAB projects\PWM Pulse Width Modulation CCP Modules\newmain.c
+[v _main main `(v  1 e 1 0 ]
+{
+"34
+[v main@DC DC `us  1 a 2 6 ]
+"53
+} 0
+"6
+[v _PMW1SetDuty PMW1SetDuty `(v  1 e 1 0 ]
+{
+[v PMW1SetDuty@DC DC `us  1 p 2 0 ]
+"19
+} 0
